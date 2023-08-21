@@ -1,4 +1,4 @@
-# My Portfolio for 
+# My Portfolio for CS210 Module 8
 - Summarize the project and what problem it was solving.
 This project was to develop a command line application which enabled the business The Corner Grocer to analyze text records of all items sold and a count of how many times each item was sold which they will use to rearrange thei produce section to fit customer buying patterns.
 - What did you do particularly well?
